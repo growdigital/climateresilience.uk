@@ -64,8 +64,8 @@
 - id: copyright-text
   translation: Designed & Developed By
 
-- id: my_name_is
-  translation: My name is
+- id: your_host
+  translation: Your host
 
 - id: enter_your_email
   translation: Enter your email

@@ -5,10 +5,10 @@ description: "this is meta description"
 draft: false
 layout: "about"
 
-name: "Matthew Atkins"
-email: "editor@domain.com"
-image: "images/author.png"
-summary: "A Writer to your favorite topic assistants, currently Head of Content at Editor."
+name: "Jim Bowen"
+email: "TheClimateResilienceShow@gmail.com"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_300/v1660424731/climateresilience/jim-bowen.jpg"
+summary: "Prepper extraordinaire."
 
 partners:
   enable: true
