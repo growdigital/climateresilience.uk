@@ -1,9 +1,9 @@
 ---
-title: "Best use of old magnetic cassette tape."
-description: "meta description"
+title: "Episode 3: Clive & Soo"
+description: "Not sure of the description"
 images:
   - "images/post/03.jpg"
-date: 2021-01-25T11:35:57+06:00
+date: 2022-06-09T19:00:00
 tags: ["Diy", "Toy"]
 categories: ["LifeStyle"]
 draft: false
