@@ -1,11 +1,11 @@
 ---
-title: "It's all about beginner's secret."
+title: "Episode 1: Banking"
 description: "meta description"
 images:
-  - "images/post/07.jpg"
+  - "https://res.cloudinary.com/growdigital/image/upload/w_460/v1660506061/climateresilience/earth-more-valuable-money.jpg"
 date: 2021-02-04T16:56:47+06:00
 draft: false
-tags: ["Startup"]
+tags: ["Banking"]
 categories: ["LifeStyle"]
 ---
 

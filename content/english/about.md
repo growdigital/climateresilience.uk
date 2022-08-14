@@ -8,7 +8,7 @@ layout: "about"
 name: "The Climate Resilience Show"
 email: "TheClimateResilienceShow@gmail.com"
 image: "https://res.cloudinary.com/growdigital/image/upload/w_300/v1660493247/climateresilience/earthrise.jpg"
-summary: "Prepper extraordinaire."
+summary: "Diverse voices from around the world."
 
 partners:
   enable: true

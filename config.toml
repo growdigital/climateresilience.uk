@@ -161,49 +161,14 @@ url = ""
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "About"
-url = "about/"
+name = "Podcast"
+url = "podcast/"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Blogs"
-url = "blogs/"
+name = "About"
+url = "about/"
 weight = 3
-
-[[Languages.en.menu.main]]
-weight = 4
-name = "Pages"
-hasChildren = true
-  
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  weight = 1
-  url = "tags/artwork/"
-  name = "Tag"
-  
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  weight = 2
-  url = "categories/lifestyle/"
-  name = "Category"
-  
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  weight = 3
-  url = "elements/"
-  name = "Elements"
-  
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  weight = 4
-  url = "terms/"
-  name = "Terms & Conditions"
-  
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  weight = 5
-  url = "privacy/"
-  name = "Privacy"
   
 [[Languages.en.menu.main]]
 name = "Contact"
