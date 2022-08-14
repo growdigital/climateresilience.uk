@@ -5,9 +5,9 @@ description: "this is meta description"
 draft: false
 layout: "about"
 
-name: "Jim Bowen"
+name: "The Climate Resilience Show"
 email: "TheClimateResilienceShow@gmail.com"
-image: "https://res.cloudinary.com/growdigital/image/upload/w_300/v1660424731/climateresilience/jim-bowen.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_300/v1660493247/climateresilience/earthrise.jpg"
 summary: "Prepper extraordinaire."
 
 partners:
